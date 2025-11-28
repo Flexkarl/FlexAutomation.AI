@@ -1,0 +1,10 @@
+{
+  "name": "flexautomation-ai",
+  "version": "1.0.0",
+  "description": "One Link → 12 Platforms Instantly | Open Source Viral Agent",
+  "main": "index.js",
+  "repository": "https://github.com/flexkarl/FlexAutomation-AI.git",
+  "author": "اسمك",
+  "license": "MIT",
+  "private": false
+}
